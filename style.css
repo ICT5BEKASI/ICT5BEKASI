@@ -564,5 +564,18 @@ a:focus {
   height: auto;
 }
 
+.video_hekal{
+  width: 400px;
+  height: auto;
+}
+
+.video_hekal img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  margin-bottom: 40px;
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
