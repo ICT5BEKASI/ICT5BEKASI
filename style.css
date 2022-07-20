@@ -567,13 +567,14 @@ a:focus {
 .video_hekal{
   width: 400px;
   height: auto;
+  border: 2px solid;
 }
 
 .video_hekal img{
   display: block;
+  width: 55%;
   margin-left: auto;
   margin-right: auto;
-  width: 55%;
   margin-bottom: 40px;
 }
 
